@@ -1,2 +1,10 @@
-# vault-sync-hub
-Vault Sync Hub - Handy developer CLI utility engineered by @rileycove
+# Vault Sync Hub
+
+A clean CLI tool for quick workflow automation.
+
+Author: [@rileycove](https://github.com/rileycove)
+
+### Usage
+```bash
+npx vault-sync-hub --help
+```
