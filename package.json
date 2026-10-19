@@ -1,0 +1,12 @@
+{
+  "name": "vault-sync-hub",
+  "version": "1.0.0",
+  "description": "CLI tool by @rileycove",
+  "bin": {
+    "vault-sync-hub": "./bin/cli.js"
+  },
+  "type": "module",
+  "author": "rileycove",
+  "license": "MIT",
+  "dependencies": {}
+}
